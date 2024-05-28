@@ -1,0 +1,7 @@
+* {
+  margin: 0 auto;
+}
+.wrapper{
+  background: url("@/assets/image/fon1.png") fixed;
+  background-size: cover;/* ФОН */
+}
